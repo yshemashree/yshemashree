@@ -21,7 +21,7 @@ I design and ship intelligent systems, from agentic ML pipelines to the product 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Shipped-Used%20by%20Industry-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/4x-Hackathon%20Wins-76FF03?style=flat-square"/>
+<img src="https://img.shields.io/badge/4x-Hackathon%20Wins-F59E0B?style=flat-square"/>
 <img src="https://img.shields.io/badge/13x-Grand%20Finalist-00E676?style=flat-square"/>
 <img src="https://img.shields.io/badge/9x-Top%205%20Finishes-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/3+-Deployed%20Projects-76FF03?style=flat-square"/>
@@ -32,13 +32,37 @@ I design and ship intelligent systems, from agentic ML pipelines to the product 
 
 ## Experience
 
-<table>
-<tr><td width="16%"><b>Aug 2026 → Now</b></td><td><b>AI Automation Intern, Team Lead of Project Brain</b> · StepOneXP<br/><sub>Leading an AI decision intelligence system built on a retrieval and reasoning pipeline.</sub></td></tr>
-<tr><td><b>Jun 2026 → Now</b></td><td><b>Product Management & Marketing Intern</b> · Social Sculpt / PostAutopsy<br/><sub>Drove 124% signup growth on an activation pivot; owns SEO/AEO for an AI LinkedIn coaching SaaS.</sub></td></tr>
-<tr><td><b>Nov 2025 → Feb 2026</b></td><td><b>Research Intern</b> · IEEE<br/><sub>Authored TRAP, a hybrid ML fraud detection paper for banking transactions.</sub></td></tr>
-<tr><td><b>Apr 2025 → Jul 2025</b></td><td><b>AI/ML Virtual Intern</b> · AICTE<br/><sub>Worked end to end on ML dataset processing and model development.</sub></td></tr>
-<tr><td><b>Jun 2025 → May 2026</b></td><td><b>Vice President & Content Lead</b> · Coffee Houses, The Literature Club (CIT)<br/><sub>Led a 59 member team; drove 62% growth in new member recruitment.</sub></td></tr>
-</table>
+<div align="center">
+
+🟢 **Aug 2026 → Present**<br/>
+<b>AI Automation Intern, Team Lead of Project Brain</b> · StepOneXP<br/>
+<sub>Leading an AI decision intelligence system built on a retrieval and reasoning pipeline.</sub>
+
+┃
+
+🟢 **Jun 2026 → Present**<br/>
+<b>Product Management & Marketing Intern</b> · Social Sculpt / PostAutopsy<br/>
+<sub>Drove 124% signup growth on an activation pivot; owns SEO/AEO for an AI LinkedIn coaching SaaS.</sub>
+
+┃
+
+🟢 **Nov 2025 → Feb 2026**<br/>
+<b>Research Intern</b> · IEEE<br/>
+<sub>Authored TRAP, a hybrid ML fraud detection paper for banking transactions.</sub>
+
+┃
+
+🟢 **Apr 2025 → Jul 2025**<br/>
+<b>AI/ML Virtual Intern</b> · AICTE<br/>
+<sub>Worked end to end on ML dataset processing and model development.</sub>
+
+┃
+
+🟢 **Jun 2025 → May 2026**<br/>
+<b>Vice President & Content Lead</b> · Coffee Houses, The Literature Club (CIT)<br/>
+<sub>Led a 59 member team; drove 62% growth in new member recruitment.</sub>
+
+</div>
 
 <br/>
 
