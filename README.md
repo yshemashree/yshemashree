@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=32&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=90&lines=HEMASHREE" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=48&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&repeat=true&width=750&height=110&lines=Y+S+HEMASHREE" />
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <a href="https://yshemashree.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF4785?style=for-the-badge&logo=netlify&logoColor=white"/></a>
@@ -18,11 +18,11 @@ I design and ship intelligent systems, from agentic ML pipelines to the product 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Shipped-Used%20by%20Industry-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/4x-Hackathon%20Wins-F5A9B8?style=flat-square"/>
-<img src="https://img.shields.io/badge/13x-Grand%20Finalist-00CFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/9x-Top%205%20Finishes-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/3+-Deployed%20Projects-F5A9B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Shipped-Used%20by%20Industry-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/4x-Hackathon%20Wins-76FF03?style=flat-square"/>
+<img src="https://img.shields.io/badge/13x-Grand%20Finalist-00E676?style=flat-square"/>
+<img src="https://img.shields.io/badge/9x-Top%205%20Finishes-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/3+-Deployed%20Projects-76FF03?style=flat-square"/>
 
 </div>
 
@@ -97,7 +97,7 @@ Built CodeBase, a real time collaborative coding platform.
 Hybrid ML fraud detection research. <a href="https://ieeexplore.ieee.org/abstract/document/11505221">Read the paper</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/Excellence-A78BFA?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/Excellence-39FF14?style=for-the-badge"/><br/><br/>
 <b>Highest GPA in Department</b><br/>
 <sub>2 consecutive semesters</sub><br/><br/>
 Sustained top academic standing alongside hackathons and internships.
@@ -105,7 +105,7 @@ Sustained top academic standing alongside hackathons and internships.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/Fully%20Funded-F5A9B8?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/Fully%20Funded-76FF03?style=for-the-badge"/><br/><br/>
 <b>TechHR, Yashobhoomi Delhi</b><br/>
 <sub>via StepOneXP</sub><br/><br/>
 Earned a fully company funded trip to Asia's largest HR and tech networking event.
@@ -135,12 +135,12 @@ Earned a fully company funded trip to Asia's largest HR and tech networking even
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yshemashree&bg_color=0D1117&color=A78BFA&line=00F5FF&point=F5A9B8&area=true&area_color=A78BFA&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yshemashree&bg_color=0D1117&color=39FF14&line=00FF87&point=76FF03&area=true&area_color=39FF14&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yshemashree&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=00F5FF&text_color=c9d1d9" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshemashree&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=yshemashree&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FF87&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshemashree&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 
 </div>
 
@@ -156,7 +156,7 @@ Earned a fully company funded trip to Asia's largest HR and tech networking even
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yshemashree&label=Profile+Views&color=a78bfa&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yshemashree&label=Profile+Views&color=39FF14&style=for-the-badge" />
 
 </div>
 
