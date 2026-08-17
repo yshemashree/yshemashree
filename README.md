@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Hemashree%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=32&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=90&lines=HEMASHREE" />
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <a href="https://yshemashree.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF4785?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://linkedin.com/in/hemashree-ys"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Agentic+ML+Pipelines+%2B+Product+Thinking;4x+National+Hackathon+Winner;Building+Brain+%40+StepOneXP" />
 
 </div>
 
@@ -60,13 +60,59 @@ I design and ship intelligent systems, from agentic ML pipelines to the product 
 
 ## Achievements
 
-🥇 **Cybershield'26 Hackathon**, MeitY — built Contexta, a cybersecurity risk platform. 1st nationally.
-🥇 **AI Smart Digital Innovation Challenge**, IIT Madras — presented AI governance policy before the Chief Justice of Madras High Court. 1st among finalists.
-🥈 **StepOneXP AI Buildathon** — built a 12 pipeline market intelligence engine. 2nd nationally.
-🥈 **HackGenix**, TechnoSummit — built CodeBase, a real time collaborative coding platform. 2nd place.
-📄 **TRAP**, IEEE Conference — published hybrid ML fraud detection research. [Read the paper](https://ieeexplore.ieee.org/abstract/document/11505221)
-🎓 **Highest GPA in Department**, 2 consecutive semesters.
-✈️ **Fully funded trip to TechHR**, Yashobhoomi Delhi, via StepOneXP.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/1st%20Place-FFD700?style=for-the-badge"/><br/><br/>
+<b>Cybershield'26 Hackathon</b><br/>
+<sub>MeitY</sub><br/><br/>
+Built Contexta, a cybersecurity risk platform.
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/1st%20Place-FFD700?style=for-the-badge"/><br/><br/>
+<b>AI Smart Digital Innovation Challenge</b><br/>
+<sub>IIT Madras</sub><br/><br/>
+Presented AI governance policy before the Chief Justice of Madras High Court.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/2nd%20Place-C0C0C0?style=for-the-badge"/><br/><br/>
+<b>StepOneXP AI Buildathon</b><br/>
+<sub>StepOneXP</sub><br/><br/>
+Built a 12 pipeline market intelligence engine on real industry data.
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/2nd%20Place-C0C0C0?style=for-the-badge"/><br/><br/>
+<b>HackGenix</b><br/>
+<sub>TechnoSummit</sub><br/><br/>
+Built CodeBase, a real time collaborative coding platform.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Published-3B82F6?style=for-the-badge"/><br/><br/>
+<b>TRAP</b><br/>
+<sub>IEEE Conference</sub><br/><br/>
+Hybrid ML fraud detection research. <a href="https://ieeexplore.ieee.org/abstract/document/11505221">Read the paper</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Excellence-A78BFA?style=for-the-badge"/><br/><br/>
+<b>Highest GPA in Department</b><br/>
+<sub>2 consecutive semesters</sub><br/><br/>
+Sustained top academic standing alongside hackathons and internships.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Fully%20Funded-F5A9B8?style=for-the-badge"/><br/><br/>
+<b>TechHR, Yashobhoomi Delhi</b><br/>
+<sub>via StepOneXP</sub><br/><br/>
+Earned a fully company funded trip to Asia's largest HR and tech networking event.
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 <br/>
 
