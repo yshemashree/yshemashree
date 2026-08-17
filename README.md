@@ -4,9 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=48&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&repeat=true&width=750&height=110&lines=Y+S+HEMASHREE" />
 
+<p align="center">
 <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <a href="https://yshemashree.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF4785?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://linkedin.com/in/hemashree-ys"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 </div>
 
